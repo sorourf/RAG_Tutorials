@@ -32,3 +32,13 @@ Below is the **RAG Techniques Graph**, summarizing the techniques and their cate
 
 ![RAG Enhancement Techniques](images/rag.png)  
 
+## 📘 Notebooks
+
+### Chunking Strategies
+- Learn and explore different chunking methods used in the indexing phase of RAG:
+  - Fixed-size chunking
+  - Recursive chunking
+  - Semantic chunking
+
+[📓 View the Chunking Strategies Notebook](./chunking_strategies.ipynb)
+
