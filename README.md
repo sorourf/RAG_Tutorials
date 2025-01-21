@@ -40,5 +40,5 @@ Below is the **RAG Techniques Graph**, summarizing the techniques and their cate
   - Recursive chunking
   - Semantic chunking
 
-[📓 View the Chunking Strategies Notebook](./chunking_strategies.ipynb)
+[📓 View the Chunking Strategies Notebook](01_RAG_Chunking_Strategies.ipynb)
 
