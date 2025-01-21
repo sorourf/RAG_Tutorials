@@ -31,4 +31,4 @@ This repository includes:
 Below is the **RAG Techniques Graph**, summarizing the techniques and their categories:
 
 ![RAG Enhancement Techniques](images/rag.png)  
-*(Ensure the image file is placed at `docs/images/rag-enhancement-techniques.png`.)*
+
